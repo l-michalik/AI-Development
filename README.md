@@ -1,5 +1,11 @@
 # AI-Development
 
+## 4. sentiment-polarity
+<details>
+  <summary>Description</summary>
+  In my program, I have integrated a sentiment analysis module that distinguishes between positive and negative text. Yet, when faced with ambiguous content, the program may encounter challenges in determining the sentiment accurately. To address this limitation effectively, I recommend integrating a text title analysis component to enhance the overall sentiment assessment capabilities of the program.
+</details>
+
 ## 3. s&p500-predator
 <details>
   <summary>Description</summary>
