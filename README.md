@@ -1,6 +1,6 @@
 # AI-Development
 
-## 2. s&p500-predator
+## 3. s&p500-predator
 <details>
   <summary>Description</summary>
   I have developed a sophisticated model that utilizes data from the S&P 500 to forecast stock prices in the market. While there are numerous enhancements that can be implemented to optimize the effectiveness of this solution, my primary focus is on acquiring the necessary knowledge and skills to maximize its potential. Currently, I am investing in the Vanguard S&P 500 index, and I view this as a foundational step towards achieving success in this field. By building a strong understanding of the fundamentals and continuously improving my expertise, I aim to leverage this model to make informed and profitable investment decisions in the future. The model currently boasts an accuracy rate of 57.3%.
