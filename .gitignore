@@ -5,3 +5,4 @@ lib64
 include/
 *.cfg
 .env
+chat-bot/assets/
